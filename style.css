@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1%;
+  height: 100vh;
+  background-color: black;
+}
+.background #container #row1 button {
+  width: 200px;
+  height: 200px;
+  font-size: 30px;
+  font-weight: bolder;
+  cursor: grabbing;
+}
+.background #container #row2 button {
+  width: 200px;
+  height: 200px;
+  font-size: 30px;
+  font-weight: bolder;
+  cursor: grabbing;
+}
+.background #container #row3 button {
+  width: 200px;
+  height: 200px;
+  font-size: 30px;
+  font-weight: bolder;
+  cursor: grabbing;
+}/*# sourceMappingURL=style.css.map */

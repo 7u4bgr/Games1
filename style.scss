@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:1%;
+    height: 100vh;
+    background-color: black;
+    #container{
+        #row1{
+            button{
+                width: 200px;
+                height: 200px;
+                font-size: 30px;
+                font-weight: bolder;
+                cursor: grabbing;
+            }
+        }
+        #row2{
+            button{
+                width: 200px;
+                height: 200px;
+                font-size: 30px;
+                font-weight: bolder;
+                cursor: grabbing;
+            }
+        }
+        #row3{
+            button{
+                width: 200px;
+                height: 200px;
+                font-size: 30px;
+                font-weight: bolder;
+                cursor: grabbing;
+            }
+        }
+    }
+}
